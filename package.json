@@ -1,0 +1,13 @@
+{
+  "name": "kisah-sukses-final-ai",
+  "version": "1.0.0",
+  "description": "Kisah Sukses Final AI - mentor AI bilingual (ID/EN)",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
